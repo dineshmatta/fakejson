@@ -1,0 +1,60 @@
+{
+"data": [
+{
+"ID": 13,
+"IPAddress": "1.1.1.1",
+"CompanyName": "Omar Tech",
+"ContactName": "Omar",
+"ContactEmail": "",
+"ContactNumber": ""
+},
+{
+"ID": 22,
+"IPAddress": "1.1.1.10",
+"CompanyName": "Omar Tech",
+"ContactName": "Omar",
+"ContactEmail": "",
+"ContactNumber": ""
+},
+{
+"ID": 112,
+"IPAddress": "1.1.1.100",
+"CompanyName": "Omar Tech",
+"ContactName": "Omar",
+"ContactEmail": "",
+"ContactNumber": ""
+},
+{
+"ID": 113,
+"IPAddress": "1.1.1.101",
+"CompanyName": "Omar Tech",
+"ContactName": "Omar",
+"ContactEmail": "",
+"ContactNumber": ""
+},
+{
+"ID": 114,
+"IPAddress": "1.1.1.102",
+"CompanyName": "Omar Tech",
+"ContactName": "Omar",
+"ContactEmail": "",
+"ContactNumber": ""
+},
+{
+"ID": 115,
+"IPAddress": "1.1.1.103",
+"CompanyName": "Omar Tech",
+"ContactName": "Omar",
+"ContactEmail": "",
+"ContactNumber": ""
+},
+{
+"ID": 116,
+"IPAddress": "1.1.1.104",
+"CompanyName": "Omar Tech",
+"ContactName": "Omar",
+"ContactEmail": "",
+"ContactNumber": ""
+}
+]
+}
